@@ -1,5 +1,8 @@
 # Dweyl Git Workshop
+## Project Description
 
+This project was created for Git Workshop 2 to practice
+Git version control, remote repositories, and branching.
 ## About the Project
 This is my first Git workshop project. I am learning how to use Git to track changes and manage versions of my files.
 
